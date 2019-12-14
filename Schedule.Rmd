@@ -1,0 +1,12 @@
+---
+title: "Schedule"
+output: html_document
+---
+
+```{r, echo=FALSE}
+Course.Schedule <- read.csv("~/Dropbox/Master/Work/Teaching/Lithic Analysis/Course Schedule.csv")
+knitr::kable(Course.Schedule)
+```
+
+[Intro to knapping]: https://asu.edu
+[Introduction & Mechanics of Flintknapping]: Introduction.html

@@ -1,0 +1,10 @@
+name: "Lithic Analysis"
+output_dir: "."
+navbar:
+  title: "Lithic Analysis"
+  type: inverse
+  left:
+    - text: "Home"
+      href: index.html
+    - text: "About Me"
+      href: about.html

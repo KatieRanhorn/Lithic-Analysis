@@ -1,0 +1,13 @@
+name: "Lithic Analysis"
+output_dir: "."
+navbar:
+  title: "Lithic Analysis"
+  type: inverse
+  left:
+    - text: "Home"
+      href: index.html
+    - text: "Schedule"
+      href: schedule.html
+output:
+  html_document:
+    theme: yeti
